@@ -1,4 +1,5 @@
 ### HydaCube
+HydaCube est un serveur mini-jeux.
 
 ## Outils
 * [MariaDB](https://mariadb.org/)
